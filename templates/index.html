@@ -1,0 +1,96 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+
+<div class="row">
+    <div class="col-md-12">
+        {% with messages = get_flashed_messages() %}
+            {% if messages %}
+                {% for message in messages %}
+                <div class="alert alert-success alert-dismissible fade show" role="alert">
+                    {{message}}
+                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                </div>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+
+
+        <div class="card card-body">
+            <h3>Creación de Modelo</h3>
+
+            <form action="/generate_Model" method="POST" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label for="filepath" class="form-label">Seleccione Las Imágenes</label>
+                    <input type="file" name="filepath" id="filepath" class="form-control" placeholder="Seleccionar...">
+                </div>
+                
+                <div class="form-group pt-2">
+                    <button type="submit" class="btn btn-primary btn-block form-control">Cargar</button>
+                </div>
+            </form>
+            <form action="/predecir" method="POST" enctype="multipart/form-data">
+                <div class="form-group pt-2">
+                    <button type="submit" class="btn btn-primary btn-block form-control">Analizar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="col-md-6">
+        <div class="card card-body mt-4">
+            <h3>Entrenamientos de Modelos</h3>
+
+            <form action="/usac" method="POST">
+                <div class="form-group pt-2">
+                    <button type="submit" class="btn btn-primary btn-block form-control">Usac</button>
+                </div>
+            </form>
+            <form action="/landivar" method="POST">
+                <div class="form-group pt-2">
+                    <button type="submit" class="btn btn-primary btn-block form-control">Landivar</button>
+                </div>
+            </form>
+            <form action="/mariano" method="POST">
+                <div class="form-group pt-2">
+                    <button type="submit" class="btn btn-primary btn-block form-control">Mariano</button>
+                </div>
+            </form>
+            <form action="/marroquin" method="POST">
+                <div class="form-group pt-2">
+                    <button type="submit" class="btn btn-primary btn-block form-control">Marroquin</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="col-md-6">
+        <div class="card card-body mt-4">
+            <h3>Gráficas</h3>
+
+            <form action="/usac_g" method="POST">
+                <div class="form-group pt-2">
+                    <button type="submit" class="btn btn-primary btn-block form-control">Usac</button>
+                </div>
+            </form>
+            <form action="/landivar_g" method="POST">
+                <div class="form-group pt-2">
+                    <button type="submit" class="btn btn-primary btn-block form-control">Landivar</button>
+                </div>
+            </form>
+            <form action="/mariano_g" method="POST">
+                <div class="form-group pt-2">
+                    <button type="submit" class="btn btn-primary btn-block form-control">Mariano</button>
+                </div>
+            </form>
+            <form action="/marroquin_g" method="POST">
+                <div class="form-group pt-2">
+                    <button type="submit" class="btn btn-primary btn-block form-control">Marroquin</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+{% endblock %}

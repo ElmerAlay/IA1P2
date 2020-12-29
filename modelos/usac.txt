@@ -1,0 +1,3941 @@
+Modelo 1
+Lambda = 0.5
+Alpha = 0.005
+Max iteraciones = 10000
+Entrenamiento = 95.45454545454545%
+Validacion = 83.33333333333334%
+
+Modelo 2
+Lambda = 0.05
+Alpha = 0.05
+Max iteraciones = 10000
+Entrenamiento = 99.43181818181819%
+Validacion = 83.33333333333334%
+
+Modelo 1
+Lambda = 0.5
+Alpha = 0.01
+Max iteraciones = 10000
+Entrenamiento = 99.43181818181819%
+Validacion = 84.44444444444444%
+
+Modelo 1
+Lambda = 0
+Alpha = 0.005
+Max iteraciones = 10000
+Entrenamiento = 95.45454545454545%
+Validacion = 83.33333333333334%
+
+Modelo 1
+Lambda = 0
+Alpha = 0.005
+Max iteraciones = 10000
+Entrenamiento = 95.45454545454545%
+Validacion = 83.33333333333334%
+
+Modelo 1
+Lambda = 0.05
+Alpha = 0.005
+Max iteraciones = 10000
+Entrenamiento = 95.45454545454545%
+Validacion = 83.33333333333334%
+
+Modelo 1
+Lambda = 0.05
+Alpha = 0.003
+Max iteraciones = 10000
+Entrenamiento = 95.45454545454545%
+Validacion = 87.77777777777777%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.003
+Max iteraciones = 10000
+Entrenamiento = 95.45454545454545%
+Validacion = 87.77777777777777%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.003
+Max iteraciones = 10000
+Entrenamiento = 95.45454545454545%
+Validacion = 87.77777777777777%
+
+Modelo 1
+Lambda = 150
+Alpha = 0.003
+Max iteraciones = 10000
+Entrenamiento = 94.88636363636364%
+Validacion = 88.88888888888889%
+
+Modelo 1
+Lambda = 150
+Alpha = 0.001
+Max iteraciones = 10000
+Entrenamiento = 95.73863636363636%
+Validacion = 91.11111111111111%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.001
+Max iteraciones = 10000
+Entrenamiento = 95.73863636363636%
+Validacion = 91.11111111111111%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.002
+Max iteraciones = 10000
+Entrenamiento = 95.73863636363636%
+Validacion = 90.0%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.003
+Max iteraciones = 10000
+Entrenamiento = 95.45454545454545%
+Validacion = 87.77777777777777%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.004
+Max iteraciones = 10000
+Entrenamiento = 95.73863636363636%
+Validacion = 84.44444444444444%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.005
+Max iteraciones = 10000
+Entrenamiento = 95.45454545454545%
+Validacion = 83.33333333333334%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.001
+Max iteraciones = 10000
+Entrenamiento = 95.73863636363636%
+Validacion = 91.11111111111111%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.002
+Max iteraciones = 10000
+Entrenamiento = 95.73863636363636%
+Validacion = 90.0%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.003
+Max iteraciones = 10000
+Entrenamiento = 95.45454545454545%
+Validacion = 87.77777777777777%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.004
+Max iteraciones = 10000
+Entrenamiento = 95.73863636363636%
+Validacion = 84.44444444444444%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.005
+Max iteraciones = 10000
+Entrenamiento = 95.45454545454545%
+Validacion = 83.33333333333334%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.001
+Max iteraciones = 10000
+Entrenamiento = 95.73863636363636%
+Validacion = 91.11111111111111%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.002
+Max iteraciones = 10000
+Entrenamiento = 95.73863636363636%
+Validacion = 90.0%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.003
+Max iteraciones = 10000
+Entrenamiento = 95.45454545454545%
+Validacion = 87.77777777777777%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.004
+Max iteraciones = 10000
+Entrenamiento = 95.73863636363636%
+Validacion = 84.44444444444444%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.005
+Max iteraciones = 10000
+Entrenamiento = 95.45454545454545%
+Validacion = 83.33333333333334%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.001
+Max iteraciones = 10000
+Entrenamiento = 97.44318181818181%
+Validacion = 92.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 10000
+Entrenamiento = 97.44318181818181%
+Validacion = 90.0%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.003
+Max iteraciones = 10000
+Entrenamiento = 97.72727272727273%
+Validacion = 92.22222222222223%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.004
+Max iteraciones = 10000
+Entrenamiento = 96.875%
+Validacion = 90.0%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.005
+Max iteraciones = 10000
+Entrenamiento = 96.875%
+Validacion = 87.77777777777777%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.001
+Max iteraciones = 10000
+Entrenamiento = 97.44318181818181%
+Validacion = 92.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 10000
+Entrenamiento = 97.44318181818181%
+Validacion = 90.0%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.003
+Max iteraciones = 10000
+Entrenamiento = 97.72727272727273%
+Validacion = 92.22222222222223%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.004
+Max iteraciones = 10000
+Entrenamiento = 96.875%
+Validacion = 90.0%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.005
+Max iteraciones = 10000
+Entrenamiento = 96.875%
+Validacion = 87.77777777777777%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.001
+Max iteraciones = 1000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.003
+Max iteraciones = 1000
+Entrenamiento = 97.72727272727273%
+Validacion = 92.22222222222223%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.004
+Max iteraciones = 1000
+Entrenamiento = 84.375%
+Validacion = 75.55555555555556%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.005
+Max iteraciones = 1000
+Entrenamiento = 96.875%
+Validacion = 87.77777777777777%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 2000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.0003
+Max iteraciones = 3000
+Entrenamiento = 97.1590909090909%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.0005
+Max iteraciones = 5000
+Entrenamiento = 97.44318181818181%
+Validacion = 92.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 5000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.0003
+Max iteraciones = 3000
+Entrenamiento = 97.1590909090909%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.0005
+Max iteraciones = 5000
+Entrenamiento = 97.44318181818181%
+Validacion = 92.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.001
+Max iteraciones = 5000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.0003
+Max iteraciones = 3000
+Entrenamiento = 97.1590909090909%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.0005
+Max iteraciones = 5000
+Entrenamiento = 97.44318181818181%
+Validacion = 92.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.0003
+Max iteraciones = 3000
+Entrenamiento = 97.1590909090909%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.0005
+Max iteraciones = 5000
+Entrenamiento = 97.44318181818181%
+Validacion = 92.22222222222223%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.0005
+Max iteraciones = 5000
+Entrenamiento = 97.44318181818181%
+Validacion = 92.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.0005
+Max iteraciones = 5000
+Entrenamiento = 97.44318181818181%
+Validacion = 92.22222222222223%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.0005
+Max iteraciones = 5000
+Entrenamiento = 97.44318181818181%
+Validacion = 92.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.0003
+Max iteraciones = 3000
+Entrenamiento = 97.1590909090909%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.0005
+Max iteraciones = 5000
+Entrenamiento = 97.44318181818181%
+Validacion = 92.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.0003
+Max iteraciones = 3000
+Entrenamiento = 97.1590909090909%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.0003
+Max iteraciones = 3000
+Entrenamiento = 97.1590909090909%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.0005
+Max iteraciones = 5000
+Entrenamiento = 97.44318181818181%
+Validacion = 92.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.0003
+Max iteraciones = 3000
+Entrenamiento = 97.1590909090909%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.0005
+Max iteraciones = 5000
+Entrenamiento = 97.44318181818181%
+Validacion = 92.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 76.13636363636364%
+Validacion = 76.66666666666667%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 91.76136363636364%
+Validacion = 90.0%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.0003
+Max iteraciones = 3000
+Entrenamiento = 93.75%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 76.42045454545455%
+Validacion = 76.66666666666667%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.0005
+Max iteraciones = 5000
+Entrenamiento = 95.73863636363636%
+Validacion = 91.11111111111111%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 77.27272727272728%
+Validacion = 77.77777777777777%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 93.18181818181819%
+Validacion = 88.88888888888889%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.0003
+Max iteraciones = 3000
+Entrenamiento = 95.73863636363636%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 78.125%
+Validacion = 77.77777777777777%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.0005
+Max iteraciones = 5000
+Entrenamiento = 97.72727272727273%
+Validacion = 92.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 95.73863636363636%
+Validacion = 92.22222222222223%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.0003
+Max iteraciones = 3000
+Entrenamiento = 98.01136363636364%
+Validacion = 94.44444444444444%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.0005
+Max iteraciones = 5000
+Entrenamiento = 97.72727272727273%
+Validacion = 94.44444444444444%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.0003
+Max iteraciones = 3000
+Entrenamiento = 97.1590909090909%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.0003
+Max iteraciones = 3000
+Entrenamiento = 97.1590909090909%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.0005
+Max iteraciones = 5000
+Entrenamiento = 97.44318181818181%
+Validacion = 92.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 76.13636363636364%
+Validacion = 76.66666666666667%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 91.76136363636364%
+Validacion = 90.0%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.0003
+Max iteraciones = 3000
+Entrenamiento = 93.75%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 76.42045454545455%
+Validacion = 76.66666666666667%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.0005
+Max iteraciones = 5000
+Entrenamiento = 95.73863636363636%
+Validacion = 91.11111111111111%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 77.27272727272728%
+Validacion = 77.77777777777777%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 93.18181818181819%
+Validacion = 88.88888888888889%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.0003
+Max iteraciones = 3000
+Entrenamiento = 95.73863636363636%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 78.125%
+Validacion = 77.77777777777777%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.0005
+Max iteraciones = 5000
+Entrenamiento = 97.72727272727273%
+Validacion = 92.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 95.73863636363636%
+Validacion = 92.22222222222223%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.0003
+Max iteraciones = 3000
+Entrenamiento = 98.01136363636364%
+Validacion = 94.44444444444444%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.0005
+Max iteraciones = 5000
+Entrenamiento = 97.72727272727273%
+Validacion = 94.44444444444444%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.0003
+Max iteraciones = 3000
+Entrenamiento = 97.1590909090909%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.0005
+Max iteraciones = 5000
+Entrenamiento = 97.44318181818181%
+Validacion = 92.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 76.13636363636364%
+Validacion = 76.66666666666667%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 91.76136363636364%
+Validacion = 90.0%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.0003
+Max iteraciones = 3000
+Entrenamiento = 93.75%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 76.42045454545455%
+Validacion = 76.66666666666667%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.0005
+Max iteraciones = 5000
+Entrenamiento = 95.73863636363636%
+Validacion = 91.11111111111111%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 77.27272727272728%
+Validacion = 77.77777777777777%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 93.18181818181819%
+Validacion = 88.88888888888889%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.0003
+Max iteraciones = 3000
+Entrenamiento = 95.73863636363636%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 78.125%
+Validacion = 77.77777777777777%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.0005
+Max iteraciones = 5000
+Entrenamiento = 97.72727272727273%
+Validacion = 92.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 95.73863636363636%
+Validacion = 92.22222222222223%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.0003
+Max iteraciones = 3000
+Entrenamiento = 98.01136363636364%
+Validacion = 94.44444444444444%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.0005
+Max iteraciones = 5000
+Entrenamiento = 97.72727272727273%
+Validacion = 94.44444444444444%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.0003
+Max iteraciones = 3000
+Entrenamiento = 97.1590909090909%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.0005
+Max iteraciones = 5000
+Entrenamiento = 97.44318181818181%
+Validacion = 92.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.0003
+Max iteraciones = 3000
+Entrenamiento = 97.1590909090909%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.0005
+Max iteraciones = 5000
+Entrenamiento = 97.44318181818181%
+Validacion = 92.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.0003
+Max iteraciones = 3000
+Entrenamiento = 97.1590909090909%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.0003
+Max iteraciones = 3000
+Entrenamiento = 97.1590909090909%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 76.13636363636364%
+Validacion = 76.66666666666667%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 91.76136363636364%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 76.42045454545455%
+Validacion = 76.66666666666667%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 77.27272727272728%
+Validacion = 77.77777777777777%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 93.18181818181819%
+Validacion = 88.88888888888889%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 78.125%
+Validacion = 77.77777777777777%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 95.73863636363636%
+Validacion = 92.22222222222223%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 76.13636363636364%
+Validacion = 76.66666666666667%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 91.76136363636364%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 76.42045454545455%
+Validacion = 76.66666666666667%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 77.27272727272728%
+Validacion = 77.77777777777777%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 93.18181818181819%
+Validacion = 88.88888888888889%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 78.125%
+Validacion = 77.77777777777777%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 95.73863636363636%
+Validacion = 92.22222222222223%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 76.13636363636364%
+Validacion = 76.66666666666667%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 91.76136363636364%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 76.42045454545455%
+Validacion = 76.66666666666667%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 77.27272727272728%
+Validacion = 77.77777777777777%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 93.18181818181819%
+Validacion = 88.88888888888889%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 78.125%
+Validacion = 77.77777777777777%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 95.73863636363636%
+Validacion = 92.22222222222223%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 76.13636363636364%
+Validacion = 76.66666666666667%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 91.76136363636364%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 76.42045454545455%
+Validacion = 76.66666666666667%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 77.27272727272728%
+Validacion = 77.77777777777777%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 93.18181818181819%
+Validacion = 88.88888888888889%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 78.125%
+Validacion = 77.77777777777777%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 95.73863636363636%
+Validacion = 92.22222222222223%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 77.27272727272728%
+Validacion = 77.77777777777777%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 93.18181818181819%
+Validacion = 88.88888888888889%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 78.125%
+Validacion = 77.77777777777777%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 77.27272727272728%
+Validacion = 77.77777777777777%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 93.18181818181819%
+Validacion = 88.88888888888889%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 78.125%
+Validacion = 77.77777777777777%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 95.73863636363636%
+Validacion = 92.22222222222223%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 76.13636363636364%
+Validacion = 76.66666666666667%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 91.76136363636364%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 76.42045454545455%
+Validacion = 76.66666666666667%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 77.27272727272728%
+Validacion = 77.77777777777777%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 93.18181818181819%
+Validacion = 88.88888888888889%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 78.125%
+Validacion = 77.77777777777777%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 95.73863636363636%
+Validacion = 92.22222222222223%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 76.13636363636364%
+Validacion = 76.66666666666667%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 91.76136363636364%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 76.42045454545455%
+Validacion = 76.66666666666667%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 77.27272727272728%
+Validacion = 77.77777777777777%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 93.18181818181819%
+Validacion = 88.88888888888889%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 78.125%
+Validacion = 77.77777777777777%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 95.73863636363636%
+Validacion = 92.22222222222223%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 76.13636363636364%
+Validacion = 76.66666666666667%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 91.76136363636364%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 76.42045454545455%
+Validacion = 76.66666666666667%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 77.27272727272728%
+Validacion = 77.77777777777777%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 93.18181818181819%
+Validacion = 88.88888888888889%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 78.125%
+Validacion = 77.77777777777777%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 95.73863636363636%
+Validacion = 92.22222222222223%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 76.13636363636364%
+Validacion = 76.66666666666667%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 91.76136363636364%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 76.42045454545455%
+Validacion = 76.66666666666667%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 77.27272727272728%
+Validacion = 77.77777777777777%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 93.18181818181819%
+Validacion = 88.88888888888889%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 78.125%
+Validacion = 77.77777777777777%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 95.73863636363636%
+Validacion = 92.22222222222223%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 76.13636363636364%
+Validacion = 76.66666666666667%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 91.76136363636364%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 76.42045454545455%
+Validacion = 76.66666666666667%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 77.27272727272728%
+Validacion = 77.77777777777777%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 93.18181818181819%
+Validacion = 88.88888888888889%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 78.125%
+Validacion = 77.77777777777777%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 95.73863636363636%
+Validacion = 92.22222222222223%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 76.13636363636364%
+Validacion = 76.66666666666667%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 91.76136363636364%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 76.42045454545455%
+Validacion = 76.66666666666667%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 77.27272727272728%
+Validacion = 77.77777777777777%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 93.18181818181819%
+Validacion = 88.88888888888889%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 78.125%
+Validacion = 77.77777777777777%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 95.73863636363636%
+Validacion = 92.22222222222223%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 76.13636363636364%
+Validacion = 76.66666666666667%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 91.76136363636364%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 76.42045454545455%
+Validacion = 76.66666666666667%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 77.27272727272728%
+Validacion = 77.77777777777777%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 93.18181818181819%
+Validacion = 88.88888888888889%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 78.125%
+Validacion = 77.77777777777777%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 95.73863636363636%
+Validacion = 92.22222222222223%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 76.13636363636364%
+Validacion = 76.66666666666667%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 91.76136363636364%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 76.42045454545455%
+Validacion = 76.66666666666667%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 77.27272727272728%
+Validacion = 77.77777777777777%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 93.18181818181819%
+Validacion = 88.88888888888889%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 78.125%
+Validacion = 77.77777777777777%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 95.73863636363636%
+Validacion = 92.22222222222223%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 76.13636363636364%
+Validacion = 76.66666666666667%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 91.76136363636364%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 76.42045454545455%
+Validacion = 76.66666666666667%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 77.27272727272728%
+Validacion = 77.77777777777777%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 93.18181818181819%
+Validacion = 88.88888888888889%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 78.125%
+Validacion = 77.77777777777777%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 95.73863636363636%
+Validacion = 92.22222222222223%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 76.13636363636364%
+Validacion = 76.66666666666667%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 91.76136363636364%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 76.42045454545455%
+Validacion = 76.66666666666667%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 76.13636363636364%
+Validacion = 76.66666666666667%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 91.76136363636364%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 76.42045454545455%
+Validacion = 76.66666666666667%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 77.27272727272728%
+Validacion = 77.77777777777777%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 93.18181818181819%
+Validacion = 88.88888888888889%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 78.125%
+Validacion = 77.77777777777777%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 95.73863636363636%
+Validacion = 92.22222222222223%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 76.13636363636364%
+Validacion = 76.66666666666667%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 91.76136363636364%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 76.42045454545455%
+Validacion = 76.66666666666667%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 77.27272727272728%
+Validacion = 77.77777777777777%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 93.18181818181819%
+Validacion = 88.88888888888889%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 78.125%
+Validacion = 77.77777777777777%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 95.73863636363636%
+Validacion = 92.22222222222223%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 76.13636363636364%
+Validacion = 76.66666666666667%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 91.76136363636364%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 76.42045454545455%
+Validacion = 76.66666666666667%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 77.27272727272728%
+Validacion = 77.77777777777777%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 93.18181818181819%
+Validacion = 88.88888888888889%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 78.125%
+Validacion = 77.77777777777777%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 95.73863636363636%
+Validacion = 92.22222222222223%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 76.13636363636364%
+Validacion = 76.66666666666667%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 91.76136363636364%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 76.42045454545455%
+Validacion = 76.66666666666667%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 77.27272727272728%
+Validacion = 77.77777777777777%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 93.18181818181819%
+Validacion = 88.88888888888889%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 78.125%
+Validacion = 77.77777777777777%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 95.73863636363636%
+Validacion = 92.22222222222223%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 76.13636363636364%
+Validacion = 76.66666666666667%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 91.76136363636364%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 76.42045454545455%
+Validacion = 76.66666666666667%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 77.27272727272728%
+Validacion = 77.77777777777777%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 93.18181818181819%
+Validacion = 88.88888888888889%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 78.125%
+Validacion = 77.77777777777777%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 95.73863636363636%
+Validacion = 92.22222222222223%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 76.13636363636364%
+Validacion = 76.66666666666667%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 91.76136363636364%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 76.42045454545455%
+Validacion = 76.66666666666667%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 77.27272727272728%
+Validacion = 77.77777777777777%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 93.18181818181819%
+Validacion = 88.88888888888889%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 78.125%
+Validacion = 77.77777777777777%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 95.73863636363636%
+Validacion = 92.22222222222223%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 76.13636363636364%
+Validacion = 76.66666666666667%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 91.76136363636364%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 76.42045454545455%
+Validacion = 76.66666666666667%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 77.27272727272728%
+Validacion = 77.77777777777777%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 93.18181818181819%
+Validacion = 88.88888888888889%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 78.125%
+Validacion = 77.77777777777777%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 95.73863636363636%
+Validacion = 92.22222222222223%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 76.13636363636364%
+Validacion = 76.66666666666667%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 91.76136363636364%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 76.42045454545455%
+Validacion = 76.66666666666667%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 77.27272727272728%
+Validacion = 77.77777777777777%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 93.18181818181819%
+Validacion = 88.88888888888889%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 78.125%
+Validacion = 77.77777777777777%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 95.73863636363636%
+Validacion = 92.22222222222223%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 76.13636363636364%
+Validacion = 76.66666666666667%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 91.76136363636364%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 76.42045454545455%
+Validacion = 76.66666666666667%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 77.27272727272728%
+Validacion = 77.77777777777777%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 93.18181818181819%
+Validacion = 88.88888888888889%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 78.125%
+Validacion = 77.77777777777777%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 95.73863636363636%
+Validacion = 92.22222222222223%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 76.13636363636364%
+Validacion = 76.66666666666667%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 91.76136363636364%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 76.42045454545455%
+Validacion = 76.66666666666667%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 77.27272727272728%
+Validacion = 77.77777777777777%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 93.18181818181819%
+Validacion = 88.88888888888889%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 78.125%
+Validacion = 77.77777777777777%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 95.73863636363636%
+Validacion = 92.22222222222223%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 72.72727272727273%
+Validacion = 72.22222222222223%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 94.31818181818181%
+Validacion = 91.11111111111111%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.0003
+Max iteraciones = 3000
+Entrenamiento = 97.1590909090909%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 73.86363636363636%
+Validacion = 72.22222222222223%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.0005
+Max iteraciones = 5000
+Entrenamiento = 97.44318181818181%
+Validacion = 92.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 76.13636363636364%
+Validacion = 76.66666666666667%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 91.76136363636364%
+Validacion = 90.0%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.0003
+Max iteraciones = 3000
+Entrenamiento = 93.75%
+Validacion = 91.11111111111111%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 76.42045454545455%
+Validacion = 76.66666666666667%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.0005
+Max iteraciones = 5000
+Entrenamiento = 95.73863636363636%
+Validacion = 91.11111111111111%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 77.27272727272728%
+Validacion = 77.77777777777777%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 93.18181818181819%
+Validacion = 88.88888888888889%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.0003
+Max iteraciones = 3000
+Entrenamiento = 95.73863636363636%
+Validacion = 90.0%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 78.125%
+Validacion = 77.77777777777777%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.0005
+Max iteraciones = 5000
+Entrenamiento = 97.72727272727273%
+Validacion = 92.22222222222223%
+
+Modelo 1
+Lambda = 5
+Alpha = 0.0001
+Max iteraciones = 10000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 2
+Lambda = 15
+Alpha = 0.0002
+Max iteraciones = 1000
+Entrenamiento = 95.73863636363636%
+Validacion = 92.22222222222223%
+
+Modelo 3
+Lambda = 30
+Alpha = 0.0003
+Max iteraciones = 3000
+Entrenamiento = 98.01136363636364%
+Validacion = 94.44444444444444%
+
+Modelo 4
+Lambda = 1
+Alpha = 0.0004
+Max iteraciones = 4000
+Entrenamiento = 75.2840909090909%
+Validacion = 73.33333333333333%
+
+Modelo 5
+Lambda = 0.05
+Alpha = 0.0005
+Max iteraciones = 5000
+Entrenamiento = 97.72727272727273%
+Validacion = 94.44444444444444%
+
